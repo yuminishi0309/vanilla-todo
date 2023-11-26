@@ -1,0 +1,47 @@
+@use "../global" as *;
+
+.title {
+    margin: 32px 0;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.form {
+    width: 90%;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+.input-box {
+    margin-bottom: 24px;
+}
+
+.input-text {
+    padding: 4px;
+    width: 80%;
+    margin-right: 24px;
+    line-height: 2;
+}
+
+.input-button {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.list {
+    height: 160px;
+    padding: 16px;
+    background: #cccccc86;
+}
+
+li {
+    padding: 8px 0;
+    list-style-type: none;
+}
+
+
+
+
+
+
