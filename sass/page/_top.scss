@@ -30,12 +30,14 @@
 }
 
 .list {
-    height: 160px;
+    min-height: 160px;
     padding: 16px;
     background: #cccccc86;
 }
 
 li {
+    display: flex;
+    justify-content: space-between;
     padding: 8px 0;
     list-style-type: none;
 }
